@@ -69,6 +69,8 @@ const columns = [
 />
 ```
 
+5. Please checkout my example for more advanced usage including how to integrate with Redux, Pagination, Sorting.
+
 ## License
 
 MIT © [TavDev](https://github.com/TavDev)
