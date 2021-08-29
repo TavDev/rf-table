@@ -10,6 +10,20 @@
 npm install --save rf-table
 ```
 
+## Sample data using in the example below
+
+```jsx
+const data = [
+  { id: 1, message: 'Hello' },
+  { id: 2, message: 'World!' },
+  { id: 3, message: 'This' },
+  { id: 4, message: 'is' },
+  { id: 5, message: 'rf-table' },
+  { id: 6, message: 'NPM' },
+  { id: 7, message: 'package!' }
+]
+```
+
 ## Usage
 
 1. Import the package
