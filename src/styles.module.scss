@@ -1,0 +1,45 @@
+/* add css module styles here (optional) */
+
+$activeColor: green;
+
+.active {
+  color: $activeColor;
+}
+.active button {
+  font-weight: 600;
+  color: $activeColor;
+  pointer-events: none;
+}
+.sortable:hover {
+  cursor: pointer;
+}
+.sortOrderDesc {
+  position: absolute;
+  font-size: 8px;
+  color: $activeColor;
+}
+
+.table {
+  width: 100%;
+}
+.table td,
+.table th {
+  text-align: left;
+}
+
+.pageItem {
+  list-style: none;
+  float: left;
+}
+.disabled {
+  pointer-events: none;
+  opacity: 0.65;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.selector {
+  float: left;
+}
+.pages {
+  float: right;
+}

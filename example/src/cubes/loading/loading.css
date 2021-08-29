@@ -1,0 +1,10 @@
+.empty-state {
+  height: 200px;
+}
+.empty-state-content {
+  margin: auto;
+}
+.spinner-grow {
+  width: 20px;
+  height: 20px;
+}

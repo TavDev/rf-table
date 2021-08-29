@@ -1,6 +1,6 @@
 {
   "name": "rf-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React functional table component",
   "author": "TavDev",
   "license": "MIT",
@@ -49,5 +49,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "node-sass": "^6.0.1",
+    "react-bootstrap-icons": "^1.5.0"
+  }
 }

@@ -1,0 +1,27 @@
+.row.react-bootstrap-table-pagination {
+  padding: 10px;
+}
+.table-responsive {
+  overflow-x: unset;
+}
+.react-bootstrap-table table {
+  table-layout: auto;
+}
+
+h2.page-header {
+  margin-top: 0px;
+  padding-top: 0px;
+  line-height: 15px;
+  vertical-align: middle;
+}
+span.active {
+  color: green;
+}
+span.sortable:hover {
+  cursor: pointer;
+}
+.sort-order-desc {
+  position: absolute;
+  font-size: 8px;
+  color: green;
+}
